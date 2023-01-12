@@ -37,9 +37,11 @@ Ao iniciar a aplicação será mostrada a tela de login, clique em **criar conta
 
 * Para acessar seus pedidos clique no ícone de carrinho (mobile) ou no botão de pedidos, ambos estão na parte superior que será redirecionado para a página de detalhes.
 
-* Para atualizar um prato clique no ícone com imagemm de um lápis que está do lado esquerdo superior da imagem e será redirecionado para a página de atualização, atualize o que quiser e clique no botão de atualizar.
+* Para atualizar um prato clique no ícone com imagem de um lápis que está do lado esquerdo superior da imagem e será redirecionado para a página de atualização, atualize o que quiser e clique no botão de atualizar.
 
 * Para cadastrar um novo produto vá até o final da página, abaixo das bebidas haverá um botão com nome de cadastrar novo item e será redirecionado para a página de cadastro. Nesta página escolha nas opções o que será cadastrado, preencha os campos e clique em cadastrar.
+
+* Para marcar algum prato, sobremesa ou bebida como favorito clique notão de coração.
 
 
 ## Tecnologias e ferramentas usadas no projeto
