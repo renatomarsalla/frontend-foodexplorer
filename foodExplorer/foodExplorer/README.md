@@ -41,7 +41,7 @@ Ao iniciar a aplicação será mostrada a tela de login, clique em **criar conta
 
 * Para cadastrar um novo produto vá até o final da página, abaixo das bebidas haverá um botão com nome de cadastrar novo item e será redirecionado para a página de cadastro. Nesta página escolha nas opções o que será cadastrado, preencha os campos e clique em cadastrar.
 
-* Para marcar algum prato, sobremesa ou bebida como favorito clique notão de coração.
+* Para marcar algum prato, sobremesa ou bebida como favorito clique botão de coração.
 
 
 ## Tecnologias e ferramentas usadas no projeto
