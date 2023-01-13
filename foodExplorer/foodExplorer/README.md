@@ -28,6 +28,9 @@ Ao executar a aplicação pelo terminal (passo anterior) será informado no term
 
 Ao iniciar a aplicação será mostrada a tela de login, clique em **criar conta** para se cadastrar e depois faça o login. Para acessar como **administrador** cadastre um email que contenha a palavra **admin** por exemplo _fulanodasilva@admin.com_ caso contrário você será apenas um usuário comum e não poderá cadastrar, atualizar e deletar nenhuma informação.
 
+user: marsallatoscano@admin.com
+password:123456
+
 ### Navegando pela aplicação
 * Na pagina inicial será mostrado todos os pratos, sobremesas e bebidas. Para buscar por um nome específico digite o nome no campo de busca na parte superior.
 
@@ -37,9 +40,11 @@ Ao iniciar a aplicação será mostrada a tela de login, clique em **criar conta
 
 * Para acessar seus pedidos clique no ícone de carrinho (mobile) ou no botão de pedidos, ambos estão na parte superior que será redirecionado para a página de detalhes.
 
-* Para atualizar um prato clique no ícone com imagemm de um lápis que está do lado esquerdo superior da imagem e será redirecionado para a página de atualização, atualize o que quiser e clique no botão de atualizar.
+* Para atualizar um prato clique no ícone com imagem de um lápis que está do lado esquerdo superior da imagem e será redirecionado para a página de atualização, atualize o que quiser e clique no botão de atualizar.
 
 * Para cadastrar um novo produto vá até o final da página, abaixo das bebidas haverá um botão com nome de cadastrar novo item e será redirecionado para a página de cadastro. Nesta página escolha nas opções o que será cadastrado, preencha os campos e clique em cadastrar.
+
+* Para marcar algum prato, sobremesa ou bebida como favorito clique botão de coração.
 
 
 ## Tecnologias e ferramentas usadas no projeto
