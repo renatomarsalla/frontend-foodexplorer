@@ -74,7 +74,7 @@ const Container = styled.div`
       margin:0 auto;
       /* width: 100vw; */
       width: 34.5rem;
-      /* height: 100vh; */
+      height: 100vh;
       /* background-color: blue; */
       background-color: ${({ theme }) => theme.COLORS.BACKGROUND_900};
 

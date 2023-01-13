@@ -876,6 +876,7 @@ const Container = styled.div`
 
       main{
         width: 77.6rem;
+        height: 100vh;
         /* background-color: black; */
 
         
